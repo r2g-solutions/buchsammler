@@ -4,8 +4,8 @@
 //  Schritt 2: Trage deinen GitHub-Nutzernamen ein
 // ═══════════════════════════════════════════════════════
 
-// GitHub Pages URL  →  https://DEIN-NAME.github.io/buchsammler
-const GITHUB_USER = 'DEIN-GITHUB-NAME';   // ← hier eintragen
+// GitHub Pages URL  →  https://r2g-solutions.github.io/buchsammler
+const GITHUB_USER = 'r2g-solutions';   // ← hier eintragen
 
 // Supabase → supabase.com → Project → Settings → API
 const SUPABASE_URL  = 'https://supabase.com/dashboard/project/qaqetpymlcyewlcwqmsf';   // ← hier eintragen
