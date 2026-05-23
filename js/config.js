@@ -8,8 +8,8 @@
 const GITHUB_USER = 'DEIN-GITHUB-NAME';   // ← hier eintragen
 
 // Supabase → supabase.com → Project → Settings → API
-const SUPABASE_URL  = 'https://XXXX.supabase.co';   // ← hier eintragen
-const SUPABASE_ANON = 'DEIN-ANON-PUBLIC-KEY';        // ← hier eintragen
+const SUPABASE_URL  = 'https://supabase.com/dashboard/project/qaqetpymlcyewlcwqmsf';   // ← hier eintragen
+const SUPABASE_ANON = 'sb_publishable_V75ICIrFAkPb0njZw7XE9A_n2cO4YYD';        // ← hier eintragen
 
 // Basis-URL für QR-Codes (wird automatisch aus GITHUB_USER gebaut)
 const BASE_URL = 'https://' + GITHUB_USER + '.github.io/buchsammler';
